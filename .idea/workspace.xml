@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="277529bf-1317-4740-914e-0dd60249c77b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter 2/my-spring-boot/src/main/java/com/example/demo/config/SpringBootCrosConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter 2/my-spring-boot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2/my-spring-boot/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter 2/my-spring-boot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2/my-spring-boot/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +17,29 @@
         <entry key="last-active-plugin-version" value="5.19.0" />
       </map>
     </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SpringBootCrosConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter 2/my-spring-boot/src/main/java/com/example/demo/config/SpringBootCrosConfig.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter 2/my-spring-boot/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter 2/my-spring-boot/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +71,17 @@
             <path>
               <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 7" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-zookeeper-book" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,12 +169,12 @@
       <updated>1544935522852</updated>
       <workItem from="1544935525018" duration="1740000" />
       <workItem from="1545019572497" duration="16000" />
-      <workItem from="1547250389037" duration="483000" />
+      <workItem from="1547250389037" duration="1670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2239000" />
+    <option name="totallyTimeSpent" value="3426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -158,12 +189,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -211,5 +242,20 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter 2/my-spring-boot/src/main/java/com/example/demo/config/SpringBootCrosConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 2/my-spring-boot/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 2/my-spring-boot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
