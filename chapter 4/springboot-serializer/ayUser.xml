@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.1" class="java.beans.XMLDecoder">
+ <object class="com.example.demo.model.AyUser">
+  <void property="id">
+   <long>1</long>
+  </void>
+  <void property="name">
+   <string>ay</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,9 @@
+syntax="proto3";
+
+option java_package = "com.example.demo.model";
+option java_outer_classname = "AyUserProto";
+
+message AyUser {
+    uint64 id = 1;
+    string name = 2;
+}
