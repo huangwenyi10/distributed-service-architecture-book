@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="277529bf-1317-4740-914e-0dd60249c77b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter 14/.idea/chapter 14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 14/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 14/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 14/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 14/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 14/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 16/springboot-kafka-book/src/main/java/com/example/demo/controller/KafkaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 2/my-spring-boot/src/main/java/com/example/demo/controller/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,9 +46,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -67,32 +56,15 @@
             <path>
               <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 14" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,14 +155,15 @@
       <workItem from="1549167206850" duration="44000" />
       <workItem from="1549187812085" duration="152000" />
       <workItem from="1549602018917" duration="4350000" />
+      <workItem from="1552128678093" duration="1976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16737000" />
+    <option name="totallyTimeSpent" value="18713000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -207,7 +180,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32969698" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28540772" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
