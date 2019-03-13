@@ -11,6 +11,12 @@ public class AyUser {
 
     private String name;
 
+    public AyUser(Integer id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+
+    public AyUser(){}
 
     public Integer getId() {
         return id;

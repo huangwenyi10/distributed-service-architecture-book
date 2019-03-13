@@ -8,6 +8,8 @@ package com.example.demo;
  */
 public interface UserService {
 
-    AyUser findUser(String id);
+    AyUser findUser(Integer id);
+
+    boolean deleteUser(Integer id);
 
 }
