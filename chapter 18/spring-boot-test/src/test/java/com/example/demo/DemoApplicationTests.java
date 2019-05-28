@@ -59,7 +59,7 @@ public class DemoApplicationTests {
 
     @Test
     public void testMockito_2(){
-        UserService userService = mock(UserService.class);
+        UserService userService = mock(UserServiceImpl.class);
         when(userService.findUser(1)).thenReturn(new AyUser(1, "ay"));
         //通过mock，查询出模拟用户对象
         AyUser ayUser = userService.findUser(1);

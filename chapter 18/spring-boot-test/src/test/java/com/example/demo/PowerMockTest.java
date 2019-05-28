@@ -1,6 +1,9 @@
 package com.example.demo;
 
 
+import org.junit.Assert;
+import org.junit.Test;
+
 import java.io.File;
 
 /**
@@ -12,9 +15,7 @@ import java.io.File;
 public class PowerMockTest {
 
 
-    public void testCheckFile(){
 
-    }
 
 }
 
