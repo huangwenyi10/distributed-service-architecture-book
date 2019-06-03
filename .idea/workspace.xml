@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="277529bf-1317-4740-914e-0dd60249c77b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter 4/.idea/emacs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter 4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter 18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 18/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter 18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 18/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter 18/spring-boot-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 18/spring-boot-test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter 18/spring-boot-test/src/test/java/com/example/demo/PowerMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 18/spring-boot-test/src/test/java/com/example/demo/PowerMockTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,12 +19,12 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="JavaSerializer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter 4/springboot-serializer/src/main/java/com/example/demo/service/JavaSerializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="54">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -68,7 +61,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="803" />
@@ -81,9 +74,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,113 +84,15 @@
             <path>
               <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-serializer" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributed-service-architecture-book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributed-service-architecture-book" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 15" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,14 +193,15 @@
       <workItem from="1556681193529" duration="1895000" />
       <workItem from="1556800756543" duration="38000" />
       <workItem from="1558176718001" duration="1087000" />
+      <workItem from="1559532642681" duration="147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30056000" />
+    <option name="totallyTimeSpent" value="30203000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="803" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -318,15 +211,15 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="3" visible="true" weight="0.3297568" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2642424" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.44475922" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2725322" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2761087" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -376,6 +269,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter 4/springboot-serializer/src/main/java/com/example/demo/service/JavaSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter 2/my-spring-boot/src/main/java/com/example/demo/config/SpringBootCrosConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -409,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter 4/springboot-serializer/src/main/java/com/example/demo/service/JavaSerializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="54">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
